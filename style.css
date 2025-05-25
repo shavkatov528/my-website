@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-image: url("my-photo.jpg/back.jpg"); /* Rasm yo'li to'g'rilandi */
+  background-image: url("back.jpg"); /* Rasm yo'li to'g'rilandi */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
